@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: smartmanager-python
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true

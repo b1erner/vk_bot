@@ -1,0 +1,2 @@
+SYSTEM_PEER_BASE = 2000000000  # VK peer base for chats
+COMMAND_PREFIX = '/'
